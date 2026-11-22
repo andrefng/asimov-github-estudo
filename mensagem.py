@@ -1,2 +1,3 @@
-mensagem = "Testando comandos de Git e GitHub no VS Cde"
+mensagem = "Testando comandos de Git e GitHub."
 print(mensagem)
+print("Nova feature adicionada")

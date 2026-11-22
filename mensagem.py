@@ -1,3 +1,7 @@
 mensagem = "Testando comandos de Git e GitHub."
 print(mensagem)
-print("Nova feature adicionada")
+
+def saudacao(nome):
+    print(f'Seja bem-vindo(a), {nome}!')
+
+saudacao("Asimov")
